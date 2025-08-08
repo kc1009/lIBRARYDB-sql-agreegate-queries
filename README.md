@@ -29,6 +29,7 @@ This task was completed using **MySQL** and the `LibraryDB` database.
    - Difference from `WHERE`: `WHERE` filters before aggregation, `HAVING` filters after aggregation.
 
 
-🧰 Tools Used
-MySQL Workbench
-GitHub
+## 🛠 Tools Used
+- **MySQL Workbench** – To write and execute SQL queries.
+  - **GitHub** – For hosting and submitting the project files.
+- **VS Code** – For writing SQL scripts and managing files locally before uploading to GitHub.
