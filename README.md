@@ -14,7 +14,22 @@ This task was completed using **MySQL** and the `LibraryDB` database.
 - `Members` – Stores member information.
 - `Loans` – Stores book loan transactions.
 
+- ## 📊 Key Concepts Covered
+1. **Aggregate Functions**
+   - `SUM()` - Adds up numeric column values.
+   - `COUNT()` - Counts rows or non-NULL column values.
+   - `AVG()` - Calculates average values.
+
+2. **GROUP BY**
+   - Groups rows that have the same values in specified columns.
+   - Can be used with multiple columns.
+
+3. **HAVING**
+   - Filters groups after aggregation.
+   - Difference from `WHERE`: `WHERE` filters before aggregation, `HAVING` filters after aggregation.
+
+
 ---
 🧰 Tools Used
 MySQL Workbench
-GitHub
+Github
