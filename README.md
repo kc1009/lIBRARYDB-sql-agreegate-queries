@@ -31,5 +31,5 @@ This task was completed using **MySQL** and the `LibraryDB` database.
 
 ## 🛠 Tools Used
 - **MySQL Workbench** – To write and execute SQL queries.
-  - **GitHub** – For hosting and submitting the project files.
+- **GitHub** – For hosting and submitting the project files.
 - **VS Code** – For writing SQL scripts and managing files locally before uploading to GitHub.
