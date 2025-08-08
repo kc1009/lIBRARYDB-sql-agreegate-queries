@@ -29,7 +29,6 @@ This task was completed using **MySQL** and the `LibraryDB` database.
    - Difference from `WHERE`: `WHERE` filters before aggregation, `HAVING` filters after aggregation.
 
 
----
 🧰 Tools Used
 MySQL Workbench
-Github
+GitHub
